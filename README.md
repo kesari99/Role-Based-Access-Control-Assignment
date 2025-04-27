@@ -58,7 +58,7 @@ git clone https://github.com/kesari99/Role-Based-Access-Control-Assignment.git
 ### 2. Setup Backend
 
 ```bash
-cd backend
+cd server
 npm install
 ```
 
@@ -74,7 +74,6 @@ MONGO_URI=your_mongodb_connection_string
 - Start the backend server:
 
 ```bash
-cd server
 npm run dev
 ```
 
